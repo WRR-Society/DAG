@@ -1,0 +1,15 @@
+# IDE-specific files
+.idea/
+
+# Python bytecode and virtual environments
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Logs and secrets
+*.log
+.env
+
+# Database files
+database.db
